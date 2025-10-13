@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+src/__pycache__/
 
 0_archive/*
 1_input-data/*
