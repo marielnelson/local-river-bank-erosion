@@ -1,29 +1,7 @@
-# macOS
-.DS_Store
-
-# python
-__pycache__/
-*.pyc
-.env
-.venv
-env/
-
-# jupyter
 .ipynb_checkpoints/
 
-# data
-data/*
-f1-context-maps/data/*
-f1-context-maps/*.ai
-f1-context-maps/*.qgz
-sandbox/*
-*.tif
-
-# figures
-*.pdf
-
-# VS code
-.vscode/
-
-# logs
-*.log
+0_archive/*
+1_input-data/*
+2_intermediate-data/*
+3_output-data/*
+4_edited-figures/*
