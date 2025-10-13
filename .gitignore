@@ -6,3 +6,5 @@ src/__pycache__/
 2_intermediate-data/*
 3_output-data/*
 4_edited-figures/*
+
+*.code-workspace
