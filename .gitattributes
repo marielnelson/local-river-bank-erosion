@@ -1,2 +1,2 @@
 # only works on mac at the moment
-# *.ipynb filter=nbstripout
+*.ipynb filter=nbstripout
